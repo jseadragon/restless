@@ -1,6 +1,7 @@
-I am not maintaining this fork.
-This was just created to test compatibility with Django 4.2. 
+This fork is not moaintained!
 =======
+This was just created to test compatibility with Django 4.2. Upstream has PR with these changes.
+
 
 
 ========
