@@ -1,3 +1,8 @@
+I am not maintaining this fork.
+This was just created to test compatibility with Django 4.2. 
+=======
+
+
 ========
 restless
 ========
