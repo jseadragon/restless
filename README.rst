@@ -1,4 +1,4 @@
-This fork is not moaintained!
+This fork is not maintained!
 =======
 This was just created to test compatibility with Django 4.2. Upstream has PR with these changes.
 
